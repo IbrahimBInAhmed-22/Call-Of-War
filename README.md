@@ -2,6 +2,7 @@
 ### *A Tactical Shooter — Inspired by IGI & Delta Force*
 
 > *"Precision. Strategy. Courage. Every mission is a test of your will."*
+
 GAME LINK: https://itch.io/e/26896858/ibrhaimbinahmed-published-call-of-war
 ---
 
